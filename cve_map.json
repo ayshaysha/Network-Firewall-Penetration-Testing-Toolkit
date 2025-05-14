@@ -1,0 +1,17 @@
+{
+  "dns_tunneling": [
+    {
+      "id": "CVE-2020-1350",
+      "desc": "SIGRed: DNS Server RCE in Windows Server",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2020-1350"
+    }
+  ],
+  "icmp_tunneling": [
+    {
+      "id": "CVE-2021-27860",
+      "desc": "Firewall bypass via crafted ICMP packets",
+      "link": "https://nvd.nist.gov/vuln/detail/CVE-2021-27860"
+    }
+  ],
+  ...
+}
