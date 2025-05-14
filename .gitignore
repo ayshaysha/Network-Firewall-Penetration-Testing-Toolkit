@@ -1,0 +1,8 @@
+__pycache__/
+*.log
+*.pdf
+*.xml
+scans/
+logs/
+reports/
+cve_map.json
